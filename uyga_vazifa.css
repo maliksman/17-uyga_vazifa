@@ -1,0 +1,104 @@
+body{
+    background-color: gray;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+h1{
+    color: purple;
+}
+
+.div1{
+    border: 7px solid purple;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    width: 30%;
+    height: 100px;
+    gap: 10px;
+    justify-content: start;
+}
+
+.bir{
+    background-color: white;
+    width: 50px;
+    height: 80px;
+    border-radius: 20px;
+}
+.ikki{
+    background-color: white;
+    width: 50px;
+    height: 80px;
+    border-radius: 20px;
+}
+.uch{
+    background-color: white;
+    width: 50px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+.div2{
+    border: 7px solid purple;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    width: 30%;
+    height: 100px;
+    gap: 10px;
+    justify-content: end; 
+}
+
+.div3{
+    border: 7px solid purple;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    width: 30%;
+    height: 100px;
+    gap: 10px;
+    justify-content: center; 
+}
+
+.div4{
+    border: 7px solid purple;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    width: 30%;
+    height: 100px;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.div5{
+    border: 7px solid purple;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    width: 30%;
+    height: 100px;
+    gap: 10px;
+    justify-content: space-around;
+}
+
+.div6{
+    border: 7px solid purple;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    width: 30%;
+    height: 100px;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+
